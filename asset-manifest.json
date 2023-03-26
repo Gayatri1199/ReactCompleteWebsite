@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCompleteWebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactCompleteWebsite/static/js/main.d403a0e2.js",
+    "static/js/787.34115356.chunk.js": "/ReactCompleteWebsite/static/js/787.34115356.chunk.js",
+    "index.html": "/ReactCompleteWebsite/index.html",
+    "main.e6c13ad2.css.map": "/ReactCompleteWebsite/static/css/main.e6c13ad2.css.map",
+    "main.d403a0e2.js.map": "/ReactCompleteWebsite/static/js/main.d403a0e2.js.map",
+    "787.34115356.chunk.js.map": "/ReactCompleteWebsite/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d403a0e2.js"
+  ]
+}
